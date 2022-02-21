@@ -12,3 +12,9 @@ In particular, the dataset was obtained from https://www.clarin.si/repository/xm
 *	c] Character level
 
 
+### Classification Algorithms
+*	Decision trees
+*	Random Forest (Bagging model)
+*	Boosting Model
+*	Multinomial Naïve Bayes
+*	Gaussian Naïve Bayes
