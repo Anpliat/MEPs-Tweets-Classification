@@ -7,9 +7,9 @@ In particular, the dataset was obtained from https://www.clarin.si/repository/xm
 ### Text representation (Bag of Words methods)¶
 1) Bag of word matrix
 2) TF-IDF Vectors
-*	a] Word level
-*	b] N-Gram level
-*	c] Character level
+    *	a] Word level
+    *	b] N-Gram level
+    *	c] Character level
 
 
 ### Classification Algorithms
